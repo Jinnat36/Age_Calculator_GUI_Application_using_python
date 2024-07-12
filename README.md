@@ -30,3 +30,8 @@ This is a simple GUI-based application to calculate the age of a person based on
 python age_calculator.py
 ```
 ## This script creates a simple GUI for calculating age based on the user's input for their birth date. Make sure to follow the input format for the birth year, month, and day as specified above.
+
+## output :--
+
+![Screenshot 2024-07-10 145836](https://github.com/user-attachments/assets/433212fc-ee1b-46a7-b8b2-f6c72306a38f)
+
